@@ -8,8 +8,6 @@
             "email": "b10303008@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {},
     "autoload": {
         "psr-4": {
