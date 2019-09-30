@@ -1,0 +1,11 @@
+{
+    "name": "chenjianyu/helloworld",
+    "description": "learn-for-createing-a-package",
+    "authors": [
+        {
+            "name": "Nick",
+            "email": "b10303008@gmail.com"
+        }
+    ],
+    "require": {}
+}
