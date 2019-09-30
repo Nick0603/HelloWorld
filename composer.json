@@ -7,5 +7,18 @@
             "email": "b10303008@gmail.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Curder\\HelloWorld\\": "src/"
+        }
+    },
+     "extra": {
+        "laravel": {
+            "providers": [
+                "Curder\\HelloWorld\\HelloWorldServiceProvider"
+            ]
+        }
+    }
 }
