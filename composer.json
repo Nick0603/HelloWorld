@@ -1,6 +1,7 @@
 {
     "name": "chenjianyu/helloworld",
     "description": "learn-for-createing-a-package",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nick",
