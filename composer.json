@@ -3,6 +3,7 @@
     "description": "learn-for-createing-a-package",
     "license": "MIT",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Nick",
