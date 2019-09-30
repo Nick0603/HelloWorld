@@ -8,13 +8,14 @@
             "email": "b10303008@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
             "Curder\\HelloWorld\\": "src/"
         }
     },
-     "extra": {
+    "extra": {
         "laravel": {
             "providers": [
                 "Curder\\HelloWorld\\HelloWorldServiceProvider"
