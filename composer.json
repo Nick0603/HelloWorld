@@ -2,6 +2,7 @@
     "name": "chenjianyu/helloworld",
     "description": "learn-for-createing-a-package",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Nick",
@@ -21,20 +22,4 @@
             ]
         }
     }
-}
-
-{
-    "name": "chenjianyu/helloworld",
-    "authors": [
-        {
-            "name": "Nick",
-            "email": "b10303008@gmail.com"
-        }
-    ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Curder\\HelloWorld\\": "src/"
-        }
-    },
 }
